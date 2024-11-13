@@ -7,7 +7,7 @@ const clientData =  {
         "paymentHistory": "good",
         "creditLength": 5,       // in years
         "recentCreditHistory": "small", 
-        "hasOutstandingLoan": false 
+        "hasOutstandingLoan": true 
     }
 
     module.exports = clientData;
